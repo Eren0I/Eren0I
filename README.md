@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **01m.saliheren@gmail.com**
 
-- ⚡ Fun fact **I ve a Psychology Degree**
+- ⚡ Fun fact **I ve a Psychology Degree but also associate degree on CS**
 
 <h3 align="left">Connect with me:</h3>
 <h3 align="left">Current Projects: in progress with React https://friendly-cranachan-274ccd.netlify.app/ --- https://sprightly-stroopwafel-6bad86.netlify.app/ </h3>

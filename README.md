@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eren0i" alt="eren0i" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Angular.js**
 
 - 💬 Ask me about **Html, Css, Js**
 
@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I ve a Psychology Degree but also associate degree on CS**
 
 <h3 align="left">Connect with me:</h3>
-<h3 align="left">Current Projects: in progress with React https://friendly-cranachan-274ccd.netlify.app/ --- https://sprightly-stroopwafel-6bad86.netlify.app/ </h3>
+<h3 align="left">Current small Projects: in progress with React  https://friendly-cranachan-274ccd.netlify.app/ --- https://sprightly-stroopwafel-6bad86.netlify.app/ ----much more on the repos section </h3>
 <p align="left">
 </p>
 

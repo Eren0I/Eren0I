@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eren0i" alt="eren0i" /></a> </p>
 
-- 🌱 I’m currently learning **Angular.js**
+- 🌱 I’m currently learning **Redux**
 
 - 💬 Ask me about **Html, Css, Js**
 

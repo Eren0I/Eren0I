@@ -8,6 +8,7 @@
 - 💬 Ask me about **Html, Css, Js, React**
 
 - 📫 How to reach me **01m.saliheren@gmail.com**
+- ⚡ My AI projects **(https://glittering-dasik-ad3ba5.netlify.app)** 
 
 - ⚡ Fun fact **I ve a Psychology Degree and also Associate Degree on Cs programming**
 
